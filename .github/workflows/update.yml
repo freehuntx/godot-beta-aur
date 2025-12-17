@@ -8,6 +8,7 @@ on:
   push:
     branches:
       - godot-beta-bin
+      - godot-next-bin
 
 jobs:
   update:
